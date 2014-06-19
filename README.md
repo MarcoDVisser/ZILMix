@@ -1,4 +1,8 @@
-ZILMix
+`ZILMix` Zero Inflated Laplace Mixture Ditributions
 ======
 
-Zero Inflated Laplace Mixture Ditributions a JAGS extention
+ZILMix is a extention for `JAGS` (Just Another Gibs Sampler), that adds
+a suite of Zero Inflated Mixture Distributions to JAGS. 
+
+**in development**
+
