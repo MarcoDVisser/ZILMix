@@ -2,16 +2,16 @@
 #include <distributions/Dzil.h> // zero inflated laplace class
 
 
-namespace wiener { // module namespace
+namespace zil { // module namespace
 
 
-  class WIENERModule : public Module { // module class
+  class ZILModule : public Module { // module class
 
   public:
 
-    WIENERModule(); // constructor
+    ZILModule(); // constructor
 
-    ~WIENERModule(); // destructor
+    ~ZILModule(); // destructor
   };
 
 
@@ -22,4 +22,4 @@ namespace wiener { // module namespace
 }
 
 
-wiener::WIENERModule _wiener_module;
+zil::ZILModule _zil_module;
